@@ -1,7 +1,7 @@
 # HAPPY USER SIGNUP
 
 <p align="center">
-  <img width="460" height="300" src="docs/cover.jpg">
+  <imgsrc="docs/cover.jpg">
 </p>
 
 ## Getting Started
