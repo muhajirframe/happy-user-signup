@@ -1,4 +1,8 @@
-# Gatsby Tailwind Emotion Starter
+# HAPPY USER SIGNUP
+
+<p align="center">
+  <img width="460" height="300" src="docs/cover.jpg">
+</p>
 
 ## Getting Started
 
@@ -9,7 +13,7 @@ npm install --global gatsby-cli
 
 Create new Gatsby project using this starter:
 ```sh
-gatsby new my-new-website https://github.com/muhajirframe/gatsby-tailwind-emotion-starter
+gatsby new my-new-website https://github.com/muhajirframe/happy-user-signup
 ```
 
 ```sh
